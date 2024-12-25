@@ -1,3 +1,4 @@
 # pytorchmask-research
 
-CASS-PROJECT
+Cyberinfrastructure & AI for Science and Society (CASS) Project
+
